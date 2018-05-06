@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TotalityLogin</string>
+    <string name="button_label">Login</string>
+</resources>
